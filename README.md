@@ -1,5 +1,10 @@
 # ftl_quantum
 
+![python ](https://img.shields.io/badge/Python-v3.10.3-orange) ![IBM Qiskit](https://img.shields.io/badge/IBM_Qiskit-v1.3.1-blue) ![conda](https://img.shields.io/badge/conda-v24.9.2-green)
+
+
+
+
 ## O que é o Qiskit
 
 [Qiskit no github](https://https://github.com/Qiskit/qiskit)
